@@ -1,0 +1,1 @@
+maze,pac,ghosts,dots,arcade
