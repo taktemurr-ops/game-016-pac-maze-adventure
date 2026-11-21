@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_016_pac_maze_adventure/core/arcade.dart';
-import 'package:game_016_pac_maze_adventure/core/level_plan.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_016_pac_maze_adventure/game/maze_engine.dart';
 import 'package:game_016_pac_maze_adventure/game/rules.dart';
 
